@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_values">
+        <item >缩放</item>
+        <item >旋转</item>
+        <item >位移</item>
+        <item>透明度</item>
+    </string-array>
+</resources>
